@@ -55,7 +55,7 @@ Any change to this policy will be published at this URL with a new effective dat
 
 ### 10. Contact
 
-Questions about this policy: <your-email@example.com>
+Questions about this policy: that_who@qq.com
 
 ---
 
