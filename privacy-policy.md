@@ -2,7 +2,7 @@
 
 **Effective date / 生效日期:** 2026-10-03  
 **Applies to / 适用对象:** 书签助手 (Bookmark Assistant), a browser extension for Microsoft Edge / Google Chrome  
-**Contact / 联系方式:** <your-email@example.com>
+**Contact / 联系方式:** that_who@qq.com
 
 ---
 
@@ -108,7 +108,7 @@ Questions about this policy: <your-email@example.com>
 
 ### 十、联系方式
 
-关于本政策的问题请联系：<your-email@example.com>
+关于本政策的问题请联系：that_who@qq.com
 
 ---
 
